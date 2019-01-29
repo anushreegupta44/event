@@ -14,7 +14,6 @@ import java.util.Map;
 @RestController
 public class UserController {
 
-
   UserService userService;
 
   public UserController(UserService userService) {
